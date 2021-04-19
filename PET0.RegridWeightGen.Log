@@ -1,0 +1,16 @@
+20210419 145831.103 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210419 145831.103 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210419 145831.103 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210419 145831.103 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210419 145831.103 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210419 145831.103 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210419 145831.103 INFO             PET0 Running with ESMF Version   : 8.0.0
+20210419 145831.103 INFO             PET0 ESMF library build date/time: "Oct 28 2019" "23:21:11"
+20210419 145831.103 INFO             PET0 ESMF library build location : /glade/scratch/vanderwb/hpci-stack/191028-2227/31230/esmf-8.0.0
+20210419 145831.103 INFO             PET0 ESMF_COMM                   : mpiuni
+20210419 145831.104 INFO             PET0 ESMF_NETCDF                 : enabled
+20210419 145831.104 INFO             PET0 ESMF_PNETCDF                : disabled
+20210419 145831.104 INFO             PET0 ESMF_PIO                    : disabled
+20210419 145831.104 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210419 145831.104 INFO             PET0 ESMF_MOAB                   : enabled
+20210419 145831.105 INFO             PET0 Finalizing ESMF
